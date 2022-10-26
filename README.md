@@ -60,6 +60,13 @@
 
 *В качестве выполненного задания приведите скриншоты установленной IDE с плагинами в файле readme.md собственного репозитория в GitHub или google doc*
 
+## Ответ на задание №1
+   - Terraform: ![Terraform](img/mkvterraform.png)
+   - Bash: ![bahs](img/mkvbash.png)
+   - Markdown: ![markdown](img/mkvmarkdown.png)
+   - Yaml: ![Yaml](img/mkvyaml.png)
+   - Jsonnet: ![Jsonnet](img/mkvjsonnet.png)
+----
 ----
 
 ## Задание 2. Описание жизненного цикла задачи (разработки нового функционала)
