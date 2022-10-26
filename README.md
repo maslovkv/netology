@@ -62,7 +62,7 @@
 
 ## Ответ на задание №1
    - Terraform: ![Terraform](img/mkvterraform.png)
-   - Bash: ![bahs](img/mkvbash.png)
+   - Bash: ![bash](img/mkvbash.png)
    - Markdown: ![markdown](img/mkvmarkdown.png)
    - Yaml: ![Yaml](img/mkvyaml.png)
    - Jsonnet: ![Jsonnet](img/mkvjsonnet.png)
